@@ -1,0 +1,37 @@
+.cardsmargin {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.cardsAling {
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.barcelonaLink{
+    text-decoration: none;
+}
+
+.datosImg {
+    width: 200px;
+    height: 200px;
+}
+
+.datosText {
+    width: 60%;
+    height: 20%;
+    margin-left: 2%;
+}
+
+.datosMargen {
+    margin: 5%;
+}
+
+.title{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+

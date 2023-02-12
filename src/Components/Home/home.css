@@ -1,0 +1,57 @@
+.homeImage {
+    background-image: url('oceanografic-valencia-1024x683.jpg');
+    height: 100vh;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homeDiv {
+    position: absolute;
+    top: 15%;
+    margin-left: 30%;
+}
+
+.homeAling {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.homeCard {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.808);
+    border-radius: 10px;
+    width: 250px;
+    height: 200px;
+    align-items: center;
+}
+
+.homeIconWeather {
+    margin-top: 5%;
+    margin-left: 38%;
+}
+
+.homeIconCities {
+    margin-left: 28%;
+}
+
+.homeCardWeather {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(71, 71, 71);
+    border-radius: 10px;
+    width: 250px;
+    height: 200px;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;  
+}
+
+
+
+
+

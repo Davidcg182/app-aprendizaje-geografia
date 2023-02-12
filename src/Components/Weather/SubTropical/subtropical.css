@@ -1,0 +1,17 @@
+.subTropDiv {
+    position: relative;
+    top: 35%;
+    left: 20%;
+    width: 30%;
+    height: 60%;
+}
+
+.subTropBtn {
+    margin-left: 40%;
+}
+
+.subTropImg {
+    position: relative;
+    top: 40%;
+    left: -25%;
+}

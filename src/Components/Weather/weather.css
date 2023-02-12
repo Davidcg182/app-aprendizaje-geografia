@@ -1,0 +1,129 @@
+.weathDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 1%;
+    width: 80%;
+    height: 97%;
+    top: 2%;
+    left: 10%;
+    position: absolute;
+
+}
+
+.weathImg {
+    position: absolute;
+    top: 20%;
+    left: 12%;
+}
+
+.weathTitle {
+    position: absolute;
+    top: 5%;
+    left: 45%;
+}
+
+.weathCards {
+    display: table-column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+
+.weathButton {
+    position: absolute;
+    top: 90%;
+    left: 42%;
+}
+
+.oceaniCard {
+    margin-left: 2px;
+    margin-bottom: 2px;
+    background-color: rgba(187, 185, 185, 0.808);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    align-items: center;
+}
+
+.oceaniCard:hover{
+    background-color: #FB526A;
+}
+
+
+.meditCard {
+    margin-left: 2px;
+    margin-bottom: 2px;
+    background-color: rgba(187, 185, 185, 0.808);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    align-items: center;
+}
+
+.meditCard:hover{
+    background-color: #0071E3;
+}
+
+
+.subtropCard {
+    margin-left: 2px;
+    margin-bottom: 2px;
+    background-color: rgba(187, 185, 185, 0.808);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    align-items: center;
+}
+
+.subtropCard:hover{
+    background-color: #AC39FF;
+}
+
+
+.semidesCard {
+    margin-left: 2px;
+    margin-bottom: 2px;
+    background-color: rgba(187, 185, 185, 0.808);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    align-items: center;
+}
+
+.semidesCard:hover{
+    background-color: #68CC45;
+}
+
+
+.montainCard {
+    margin-left: 2px;
+    margin-bottom: 2px;
+    background-color: rgba(187, 185, 185, 0.808);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    align-items: center;
+}
+
+.montainCard:hover{
+    background-color: #FF0053;
+}
+
+
+.continCard {
+    margin-left: 2px;
+    margin-bottom: 2px;
+    background-color: rgba(187, 185, 185, 0.808);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    align-items: center;
+}
+
+.continCard:hover{
+    background-color: #333333;
+}

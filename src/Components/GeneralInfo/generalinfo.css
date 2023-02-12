@@ -1,0 +1,30 @@
+.generalInfoDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    border-radius: 1%;
+    width: 97%;
+    height: 97%;
+    top: 2%;
+    left: 2%;
+    position: absolute;
+
+}
+
+.modelButton {
+    position: absolute;
+    top: 80%;
+    left: 42%;
+}
+
+.modelTitle {
+    position: absolute;
+    top: 5%;
+    left: 30%;
+}
+
+.modelcard {
+    margin-left: 5px;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,11 @@
+.meditDiv {
+    position: relative;
+    top: 21%;
+    left: 20%;
+    width: 30%;
+    height: 60%;
+}
+
+.meditBtn {
+    margin-left: 40%;
+}

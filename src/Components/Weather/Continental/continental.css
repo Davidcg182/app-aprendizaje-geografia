@@ -1,0 +1,19 @@
+.contDiv {
+    position: relative;
+    top: 21%;
+    left: 20%;
+    width: 30%;
+    height: 60%;
+}
+
+.contBtn {
+    position: relative;
+    top: -5%;
+    margin-left: 35%;
+}
+
+.contImg {
+    position: relative;
+    top: 21%;
+    left: 10%;
+}

@@ -1,0 +1,24 @@
+.mountDiv {
+    position: relative;
+    top: 21%;
+    left: 20%;
+    width: 30%;
+    height: 60%;
+}
+
+.mountBtn {
+    position: relative;
+    top: -20%;
+    margin-left: 35%;
+}
+
+.mountImg {
+    position: relative;
+    top: 12%;
+    left: 23%;
+}
+
+.moubtText {
+    position: relative;
+    top: -30%;
+}

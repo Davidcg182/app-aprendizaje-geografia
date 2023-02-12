@@ -1,0 +1,23 @@
+.semiDesDiv {
+    position: relative;
+    top: 40%;
+    left: 20%;
+    width: 30%;
+    height: 60%;
+}
+
+.semiDesBtn{
+    position: relative;
+    top: 5%;
+}
+
+.semiDesImgSup {
+    position: relative;
+    left: 60%;
+}
+
+.semiDesImgInf {
+    position: relative;
+    top: -7%;
+    left: 40%;
+}

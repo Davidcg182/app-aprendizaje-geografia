@@ -120,7 +120,7 @@ export const GeneralInfo = ({ open, onClose }) => {
                             </AccordionSummary>
                             <AccordionDetails>
                                 <Typography>
-                                    504.750 Km2
+                                    Rey Felipe VI
                                 </Typography>
                             </AccordionDetails>
                         </Accordion>
@@ -134,7 +134,7 @@ export const GeneralInfo = ({ open, onClose }) => {
                             </AccordionSummary>
                             <AccordionDetails>
                                 <Typography>
-                                    504.750 Km2
+                                    Pedro Sánchez
                                 </Typography>
                             </AccordionDetails>
                         </Accordion>
